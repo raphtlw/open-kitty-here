@@ -1,6 +1,6 @@
 # open-kitty-here
 
-Opens the Kitty terminal in the current working directory.
+Adds a service menu to KDE Dolphin (file manager) which allows you to open the [Kitty](https://github.com/kovidgoyal/kitty) terminal in the current directory.
 
 ## How to install
 
