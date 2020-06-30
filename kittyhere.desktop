@@ -6,7 +6,7 @@ Actions=openKittyHere;
 X-KDE-AuthorizeAction=shell_access
 
 [Desktop Action openKittyHere]
-TryExec=konsole
+TryExec=kitty
 Icon=utilities-terminal
 Exec=kitty --directory %f
 Name=Open Kitty Here
