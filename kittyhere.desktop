@@ -10,4 +10,6 @@ TryExec=kitty
 Icon=utilities-terminal
 Exec=kitty --directory %f
 Name=Open Kitty Here
+Name[nl]=Kitty hier openen
 Comment=Opens a terminal in the current folder
+Comment[nl]=Opent een terminalvenster in de huidige map
